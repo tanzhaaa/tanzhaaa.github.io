@@ -2,7 +2,7 @@
 ## 致谢
 
 1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。
-2. 我又从[qibaiyang](qiubaiying/qiubaiying.github.io)这里fork了，同样感谢。
+2. 我又从[qibaiyang](https://github.com/qiubaiying/qiubaiying.github.io)这里fork了，同样感谢。
 3. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
 ## License
